@@ -1,5 +1,6 @@
 # do not track compiled python files
 flask-app/__pycache__/
+flask-app/tests/__pycache__/
 flask-app/*.pyc
 
 # do not track the virtual environment
